@@ -1,4 +1,6 @@
 # Social-Network-App
+### This is an app that helps me to learn how to integrate Firebase into mobile apps.
+
 <a name="readme-top"></a>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
